@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#6EDDFF;
+}
+
+.title {
+	height:100px;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font-family:sans-serif;
+}
+
+.menu {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.menu-item {
+	margin-left:auto;
+	margin-right:auto;
+	padding: 5px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background-color:white;
+}
+
+.block1 {
+	background-color:white;
+	height:900px;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.title-block1 {
+	margin-left:20px;
+	padding-top:50px;
+}
+
+.bild-block1 {
+	height:500px;
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	border-top:thin solid black;
+	border-left:thin solid black;
+	border-right:thick solid black;
+	border-bottom:thick solid black;
+	align-content:center;
+	
+}
+
+.bild1-block1 {
+	margin-left:25px;
+	margin-right:25px;
+	margin-top:25px;
+}
+
+.photo-block1 {
+	text-align:right;
+	margin-right:20px;
+	margin-top:50px;
+}
+
+.stycke-block1 {
+	margin-left:15px;
+	margin-top:15px;
+	margin-right:15px;
+}
+
+.table {
+	border: 2px solid black;¨
+	padding: 5px;
+}
+
+.tableTop {
+	text-align:center;
+	padding:0;
+	border: 2px solid black;
+	font-size: 1.5em;
+	height:20px;
+}

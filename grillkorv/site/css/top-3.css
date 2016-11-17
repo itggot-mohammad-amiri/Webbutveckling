@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#6EDDFF;
+}
+
+.title {
+	height:100px;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font-family:'sans-serif';
+}
+
+.menu {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.menu-item {
+	margin-left:auto;
+	margin-right:auto;
+	padding: 5px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background-color:white;
+}
+
+.block1 {
+	background-color:white;
+	height:250px;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.title-block1 {
+	font-size:2em;
+	margin-left:20px;
+	padding-top:50px;
+}

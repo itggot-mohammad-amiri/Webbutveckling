@@ -1,0 +1,151 @@
+body{
+    background-color: white;
+      
+}
+
+.header{
+display: flex;
+flex-direction: column;
+width: 900px;
+height:1000px;
+margin-right: auto;
+margin-left: auto;
+background-color: silver;
+}
+
+.ett{
+    flex-grow: 5;
+    border: solid white 3px;
+
+    
+}
+
+.tva{
+    flex-grow: 3;
+    border: solid white 3px;
+}
+
+.tre {
+    flex-grow:10;
+    border: solid white 3px; 
+    display: flex;
+    flex-direction: row;
+
+}
+.fyra{
+    flex-grow: 5;
+    border: solid white 3px;
+}
+
+.fem{
+    background-color: silver;
+    border-bottom: solid white 1,5px;
+    border-top : solid white 1,5px;
+    border-right: solid white 3px;
+    flex-grow: 10;
+    display: flex;
+    flex-direction: column;
+
+}
+.sex{
+    background-color: silver;
+    border-left: solid white 3px;
+    border-bottom: solid white 1,5px;
+    border-top : solid white 1,5px;  
+    flex-grow: 5; 
+}
+.sju{
+    background-color: silver;
+    flex-grow: 3;
+    display: flex;
+    flex-direction: column;
+}
+.atta{
+    border-top: solid white 6px;
+    background-color: silver;
+    flex-grow: 2;
+    display: flex;
+    flex-direction: row;
+}
+.nio{
+    border-top: solid white 6px;
+    background-color: silver;
+    flex-grow: 3;
+    display: flex;
+    flex-direction: row;
+}
+.tio{
+    flex-grow: 1;
+    border-right:solid white 3px;
+    display: flex;
+    flex-direction: column;
+}
+.elva{
+    flex-grow: 1;
+    border-right:solid white 3px;
+    border-left:solid white 3px;
+
+}
+.tolv{
+    flex-grow: 1;
+    border-left: solid white 3px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+ .sju1{
+     flex-grow: 1;
+     border-bottom:solid white 3px;
+ }
+ .sju2{
+     flex-grow: 1;
+     border-top:solid white 3px;
+ }
+ .atta1{
+     flex-grow: 1;
+     border-right:solid white 3px;
+ }
+ .atta2{
+     flex-grow: 1;
+     border-left:solid white 3px;
+ }
+ .tolv1{
+display: flex;
+flex-direction: row;
+border-bottom: solid white 3px;
+flex-grow: 1;
+
+ }
+ .tolv2{
+      display: flex;
+      flex-direction: row;
+      border-top: solid white 3px;
+      flex-grow: 1;
+ }
+ .tolv3{
+     border-right:solid white 3px;
+     flex-grow: 1
+
+ }
+ .tolv4{
+     border-left:solid white 3px;
+      flex-grow: 1
+
+ }
+ .tolv5{
+     border-right:solid white 3px;
+      flex-grow: 1
+ }
+ .tolv6{
+     border-left:solid white 3px;
+     flex-grow:1;
+ }
+  .tio1{
+      flex-grow: 1;
+      border-bottom:solid white 3px;
+  }
+  .tio2{
+      flex-grow: 1;
+      border-top: solid white 3px;
+  }

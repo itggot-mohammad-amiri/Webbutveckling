@@ -1,0 +1,56 @@
+body{
+background-color: gold;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    height: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black 2px;
+}
+.ett{
+    background-color: blue;
+}
+.tva{
+    flex-grow: 10;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+
+}
+.tre{
+    flex-grow: 3;
+    background-color: blue;       
+}
+.text{
+    margin-left:300px;
+    font-family:sans-serif;
+    color: white;
+    text-align: right;
+}
+ .img{
+     width: 150px;
+     height: 150px;
+     margin-top:-130px;
+     margin-left: 30px; 
+ }
+ .fyra{
+     flex-grow: 2;
+     background-color: blue;
+ } 
+ .fem {
+     flex-grow: 8;
+     
+ }
+ .img2{
+     width: 30px;
+     height: 30px;
+     
+    
+ }
+ .text2{
+     font-family: sans-serif;
+     color: white;
+ }
